@@ -16,3 +16,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## currently working on
+
+* https://hackershare.dev
+* https://drawerd.com
+
+## currently learning
+
+* tailwindcss
+* stimulus js
+* vanilla js
+* Web Design
+
+## tech tags
+
+* Postgres
+* MySQL
+* Ruby
+* Rails
+* web performance
+* web information architecture
+* searching
+* Workflow Engine
+* ETL
+* CRM
+* e-commerce
+* LowCode
+* GraphQL
+* BaaS
+
+## looking for
+
+* frontend engineer
