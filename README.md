@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 * https://hackershare.dev
 * https://drawerd.com
+* https://github.com/hypercable/hypercable
 
 ## currently learning
 
