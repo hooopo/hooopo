@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## currently learning
 
+* TiDB
 * tailwindcss
 * stimulus js
 * vanilla js
