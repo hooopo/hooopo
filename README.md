@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ## currently learning
 
 * TiDB
+* clickhouse
+* bigquery
 * tailwindcss
 * stimulus js
 * vanilla js
