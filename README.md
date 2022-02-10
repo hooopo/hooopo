@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## currently working on
 
 * https://hackershare.dev
+* https://ossdaily.com
 * https://github.com/hypercable/hypercable
 
 ## currently learning
