@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 * TiDB
 * clickhouse
 * bigquery
+* DuckDB
 * tailwindcss
 * stimulus js
 * vanilla js
