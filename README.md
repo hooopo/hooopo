@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ## currently working on
 
 * https://hackershare.dev
-* https://github.com/hypercable/hypercable
+* https://hackernews-insight.vercel.app/
+* https://ossinsight.io/
 
 ## currently learning
 
