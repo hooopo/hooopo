@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ## currently working on
 
+* https://llm4.dev
 * https://hackershare.dev
 * https://hackernews-insight.vercel.app/
 * https://ossinsight.io/
