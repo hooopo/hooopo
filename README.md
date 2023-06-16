@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 * https://hackershare.dev
 * https://hackernews-insight.vercel.app/
 * https://ossinsight.io/
+* https://github.com/hooopo/oh-my-github-circles
 
 ## currently learning
 
