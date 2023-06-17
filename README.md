@@ -4,7 +4,7 @@
 
 ### Friend Circles
 
-[![](https://github.com/gh-viz/oh-my-github-circles-hooopo/raw/main/circle.png)](https://github.com/hooopo/oh-my-github-circles)
+[<img src="https://github.com/gh-viz/oh-my-github-circles-hooopo/raw/main/circle.png"  width="467"  />](https://github.com/hooopo/oh-my-github-circles)
 
 <!--
 **hooopo/hooopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
