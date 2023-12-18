@@ -2,9 +2,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hooopo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Friend Circles
-
-[<img src="https://github.com/gh-viz/oh-my-github-circles-hooopo/raw/main/circle.png"  width="467"  />](https://github.com/hooopo/oh-my-github-circles)
+### GPTs
+* [OSS Benchmark](https://chat.openai.com/g/g-fllZWy9VJ-oss-comparison)
 
 <!--
 **hooopo/hooopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
