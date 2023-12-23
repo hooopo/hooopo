@@ -4,6 +4,7 @@
 
 ### GPTs
 * [OSS Benchmark](https://chat.openai.com/g/g-fllZWy9VJ-oss-comparison)
+* [GPT Store](https://chat.openai.com/g/g-httHeWWv0-unofficial-gpt-store)
 
 <!--
 **hooopo/hooopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
