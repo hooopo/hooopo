@@ -2,10 +2,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hooopo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### GPTs
-* [OSS Benchmark](https://chat.openai.com/g/g-fllZWy9VJ-oss-comparison)
-* [GPT Store](https://chat.openai.com/g/g-httHeWWv0-unofficial-gpt-store)
-
 <!--
 **hooopo/hooopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,13 +19,13 @@ Here are some ideas to get you started:
 
 ## currently working on
 
-* https://hackershare.dev
-* https://hackernews-insight.vercel.app/
-* https://ossinsight.io/
-* https://github.com/hooopo/oh-my-github-circles
+* openrouting
+* mi-service
+* chatgpt-xiaoai
 
 ## currently learning
 
+* LLM
 * TiDB
 * clickhouse
 * bigquery
